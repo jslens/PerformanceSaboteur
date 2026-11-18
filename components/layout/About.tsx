@@ -162,7 +162,7 @@ export default function About({ collapsed = false }: AboutProps) {
               </p>
               <div className="mt-5 mb-3 flex flex-row gap-10 text-sm">
                 <a
-                  href="https://github.com/juli2a/PerformanceSaboteur"
+                  href="https://github.com/jslens/PerformanceSaboteur"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2 text-brand-accent hover:text-foreground"
